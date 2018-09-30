@@ -4,5 +4,5 @@
 ## 107-1 課程檔案
 
 - 單字
-- 閱讀
+- 閱讀 [連結] (https://github.com/CosinePiFly/eng/tree/master/reading)
 - 文法
